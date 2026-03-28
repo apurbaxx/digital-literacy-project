@@ -1,8 +1,12 @@
 # Digital Literacy Portfolio
 **Course Code:** CSE0001 - Digital Literacy
+
 **Student Name:** Apurba Das
+
 **Registration Number:** 25BHI0010
+
 **Branch:** CSE (Health Informatics)
+
 **Year:** 2025
 
 ---
