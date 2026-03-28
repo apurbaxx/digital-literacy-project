@@ -9,7 +9,7 @@
 
 
 
-## Task Summaries [cite: 13]
+## Task Summaries
 
 ### Task 1: Digital Literacy Awareness Infographic
 * **Objective:** Create a visual resource to help peers understand digital literacy[cite: 21].
@@ -41,7 +41,7 @@
 
 ---
 
-## Repository Structure [cite: 12]
+## Repository Structure
 * `report/`: Contains the full `Project_Report.pdf`[cite: 14, 94].
 * `task-1-presentation/`: The infographic visual[cite: 14].
 * `task-2-portfolio/`: Screenshots of professional platform profiles[cite: 14].
