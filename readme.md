@@ -21,7 +21,7 @@
 * **Summary:** I designed a one-page infographic that covers the definition of digital literacy, essential digital tools, safe internet practices, and professional online presence. 
 * **Location:** `task-1-presentation/`.
 
-### ModuTaskle 2: Student Digital Portfolio
+### Task 2: Student Digital Portfolio
 * **Objective:** Establish a foundational professional digital presence.
 * **Platforms Set Up:** GitHub, LinkedIn, and Kaggle.
 * **Highlights:** This includes a specialized GitHub profile README highlighting my academic focus and learning goals.
